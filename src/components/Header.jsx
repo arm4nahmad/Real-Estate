@@ -8,7 +8,7 @@ const Header = () => {
         <h2 className='text-5xl sm:text-6xl md:text-[82px] inline-block max-w-3xl font-semibold pt-20'>Explore homes that fits your dreams</h2>
         <div className='space-x-6 mt-16'>
             <a href="#Projects" className='border border-white px-8 py-3 rounded-2xl'>Projects</a>
-            <a href="#Contact Us" className='bg-blue-500 px-8 py-3 rounded-2xl'>Contact Us</a>
+            <a href="#Contact" className='bg-blue-500 px-8 py-3 rounded-2xl'>Contact Us</a>
         </div>
     </div>
     </div>

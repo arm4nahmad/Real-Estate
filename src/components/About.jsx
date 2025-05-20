@@ -45,7 +45,7 @@ const About = () => {
                 <p className='my-10 max-w-lg'>
   Where elegance meets excellence. We craft extraordinary living experiences through bespoke properties designed for those who expect nothing less than perfection. With a legacy built on trust, craftsmanship, and vision, we curate exclusive residences and commercial spaces that redefine sophistication. Welcome to a world where your aspirations find a home.
 </p>
-<button className='bg-gradient-to-r from-blue-700 to-blue-900 hover:from-blue-800 hover:to-blue-950 text-white px-8 py-2 rounded-2xl shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300'>
+<button className='bg-gradient-to-r from-blue-700 to-blue-900 hover:from-blue-800 hover:to-blue-950 text-white px-8 py-2 rounded-2xl shadow-lg hover:shadow-2xl hover:scale-105 transition-all duration-300 cursor-pointer'>
   Learn More
 </button>
 
